@@ -2,7 +2,7 @@
 
  <p>💼 Atualmente estou trabalhando na equipe de Desenvolvimento.</p>
  <p>📙 Estou aprendendo C# e a cada dia que passa, conhecendo novas funcionalidades.</p>
- <p>😄 Pronouns: He/His</p>
+ <p>😄 Pronouns: He/Him</p>
  <p>💻 Usuário de Distruição Linux Mint</p>
 
 
