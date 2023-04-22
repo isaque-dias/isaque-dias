@@ -7,7 +7,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kako-ID&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kako-ID)](https://github.com/anuraghazra/github-readme-stats](https://github.com/Kako-ID/Kako-ID/blob/main/README.md))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kako-ID)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kako-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
