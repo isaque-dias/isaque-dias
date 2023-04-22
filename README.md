@@ -1,6 +1,6 @@
 ### Olá! Me chamo Isaque Dias e sou entusiasta de Tecnologia!
 
- <p>💼 Atualmente estou trabalhando na equipe de Desenvolvimento.</p>
+ <p>💼 Atualmente estudando</p>
  <p>📙 Estou aprendendo C# e a cada dia que passa, conhecendo novas funcionalidades.</p>
  <p>😄 Pronouns: He/Him</p>
  <p>💻 Usuário de Distruição Linux</p>
