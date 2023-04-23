@@ -41,6 +41,7 @@
   <a href="https://www.python.org/"><img align="center" alt="Kako-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/"><img align="center" alt="Kako-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
   <a href="https://dotnet.microsoft.com/pt-br/"><img align="center" alt="Kako-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /></a>
+   <a href="https://code.visualstudio.com/"><img align="center" alt="Kako_vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
 </div>
 
 ##
