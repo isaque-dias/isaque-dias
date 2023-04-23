@@ -1,10 +1,34 @@
-### Olá! Me chamo Isaque Dias e sou entusiasta de Tecnologia!
+### Olá! Me chamo Isaque Dias. Sejam bem vindos!
 
- <p>💼 Atualmente estudando</p>
+<div>Sou um estudante de programação com foco em C# e apaixonado por desenvolvimento de software. Estou sempre buscando aprender e aprimorar minhas habilidades para criar aplicativos e soluções inovadoras.</div>
+
+<div>
+
+ <p><br>💼 Atualmente estudando</p>
  <p>📙 Estou aprendendo C# e a cada dia que passa, conhecendo novas funcionalidades.</p>
  <p>😄 Pronouns: He/Him</p>
  <p>💻 Usuário de Distruição Linux</p>
 
+ </div>
+ 
+ ## Interesses
+ 
+ <div>
+ 
+- Desenvolvimento de aplicativos desktop com C#
+- Desenvolvimento de aplicações web com ASP.NET Core
+- Aprendizado de conceitos avançados de bancos de dados
+- Integração de APIs em projetos C#
+ 
+ </div>
+ 
+ ## Contribuição
+ 
+<div>
+ <p>Embora eu ainda esteja em fase de aprendizado, estou aberto a oportunidades de colaboração e a aprender com outros desenvolvedores. Fique à vontade para entrar em contato comigo ou fazer sugestões/contribuições para meus projetos de estudo.</p>
+</div>
+
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kako-ID&show_icons=true&theme=dracula)
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kako-ID&layout=compact&langs_count=7&theme=apprentice"/>
