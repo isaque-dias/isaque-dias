@@ -4,10 +4,10 @@
 
 <div>
 
- <p><br>💼 Atualmente estudando</p>
- <p>📙 Estou aprendendo C# e a cada dia que passa, conhecendo novas funcionalidades.</p>
+ <p><br>💼 Atualmente estudando sobre tecnologias web.</p>
+ <p>📙 Estou aprendendo HTML, CSS e JavaScript. Conhecendo sobre as tecnologias e suas funcionalidades.</p>
  <p>😄 Pronouns: He/Him</p>
- <p>💻 Usuário de Distruição Linux</p>
+ <p>💻 Usuário de distruição Linux</p>
 
  </div>
  
