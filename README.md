@@ -37,7 +37,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <a href="https://linuxmint.com.br/">
+  <a style="text-decoration: none" href="https://linuxmint.com.br/">
    <img align="center" alt="Distro Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   </a>
  
@@ -51,6 +51,10 @@
 
   <a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript">
    <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </a>
+
+  <a href="https://pt-br.legacy.reactjs.org/">
+   <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
   
 </div>
