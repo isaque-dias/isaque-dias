@@ -1,11 +1,11 @@
 ### Olá! Me chamo Isaque Dias. Sejam bem vindos!
 
-<div>Sou um estudante de programação com foco em C# e apaixonado por desenvolvimento de software. Estou sempre buscando aprender e aprimorar minhas habilidades para criar aplicativos e soluções inovadoras.</div>
+<div>Sou estudante de tecnologias, buscando trilhar o caminho para me tornar um desenvolvedor web. Sou apaixonado pelo fato de poder construir coisas, isso me inspira a continuar praticando</div>
 
 <div>
 
- <p><br>💼 Atualmente estudando sobre tecnologias web.</p>
- <p>📙 Estou aprendendo HTML, CSS e JavaScript. Conhecendo sobre as tecnologias e suas funcionalidades.</p>
+ <p><br>💼 Atualmente estudando sobre tecnologias web</p>
+ <p>📙 Estou aprendendo HTML, CSS e JavaScript. Conhecendo sobre as tecnologias e suas funcionalidades</p>
  <p>😄 Pronouns: He/Him</p>
  <p>💻 Usuário de distruição Linux</p>
 
