@@ -50,6 +50,9 @@
   <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript">
    <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   </a>
+  <a target="_blank" href="https://pt-br.legacy.reactjs.org/">
+   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  </a>
   
   
 </div>
