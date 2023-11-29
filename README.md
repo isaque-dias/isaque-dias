@@ -36,7 +36,7 @@
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kako-ID&layout=compact&langs_count=7&theme=apprentice"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block; text-decoration: none"><br>
  
   <a target="_blank" href="[https://developer.mozilla.org/pt-BR/docs/Learn/HTM](https://www.linux.org/pages/download/)L">
    <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="max-width: 100%;">
