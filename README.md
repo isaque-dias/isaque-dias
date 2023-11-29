@@ -41,9 +41,14 @@
    <img align="center" alt="Distro Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   </a>
  
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Learn/HTML">
    <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   </a>
+
+  <a href="https://developer.mozilla.org/pt-BR/docs/Learn/CSS">
+   <img align="center" alt="CSS3" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  </a>
+  
 </div>
 
 ##
