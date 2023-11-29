@@ -53,6 +53,12 @@
   <a target="_blank" href="https://pt-br.legacy.reactjs.org/">
    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </a>
+  <a target="_blank" href="https://nodejs.org/en">
+   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  </a>
+  <a target="_blank" href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">
+   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  </a>
   
   
 </div>
