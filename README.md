@@ -36,24 +36,24 @@
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kako-ID&layout=compact&langs_count=7&theme=apprentice"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <a style="text-decoration: none" href="https://linuxmint.com.br/">
+<div style="display: inline_block; text-decoration: none"><br>
+  <a style="text-decoration: none;" href="https://linuxmint.com.br/">
    <img align="center" alt="Distro Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   </a>
  
-  <a style="text-decoration: none" href="https://developer.mozilla.org/pt-BR/docs/Learn/HTML">
+  <a style="text-decoration: none;" href="https://developer.mozilla.org/pt-BR/docs/Learn/HTML">
    <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   </a>
 
-  <a style="text-decoration: none" href="https://developer.mozilla.org/pt-BR/docs/Learn/CSS">
+  <a style="text-decoration: none;" href="https://developer.mozilla.org/pt-BR/docs/Learn/CSS">
    <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   </a>
 
-  <a style="text-decoration: none" href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript">
+  <a style="text-decoration: none;" href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript">
    <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </a>
 
-  <a style="text-decoration: none" href="https://pt-br.legacy.reactjs.org/">
+  <a style="text-decoration: none;" href="https://pt-br.legacy.reactjs.org/">
    <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
   
