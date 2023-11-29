@@ -15,10 +15,12 @@
  
  <div>
  
-- Desenvolvimento de aplicativos desktop com C#
-- Desenvolvimento de aplicações web com ASP.NET Core
-- Aprendizado de conceitos avançados de bancos de dados
-- Integração de APIs em projetos C#
+- Desenvolvimento Front-end com HTML, CSS e JavaScript
+- Experiência em design responsivo
+- Apaixonado por criar interfaces de usuário intuitivas e atraentes
+- Conhecimento em frameworks JavaScript como React e Vue.js
+- Aprendendo constantemente sobre as últimas tecnologias web
+- Familiaridade com controle de versão usando Git
  
  </div>
  
