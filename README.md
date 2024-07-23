@@ -32,9 +32,6 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kako-ID&show_icons=true&theme=dracula)
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kako-ID&layout=compact&langs_count=7&theme=apprentice"/>
-</div>
 
 <div style="display: inline_block; text-decoration: none"><br>
  
