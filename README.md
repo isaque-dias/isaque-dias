@@ -74,10 +74,13 @@ C# · ASP.NET Core · Entity Framework · DNP3 · IEC 104 · Modbus
 
 ## 🧭 Trajetória
 
-```
-Técnico de informática  →  Eletricista industrial  →  Suporte técnico em energia solar  →  Automação ADMS na CPFL  →  Desenvolvedor
-   (hardware e redes)        (painéis, motores)          (inversores on/off-grid)            (campo + software)
-```
+| | Fase | Foco |
+|:---:|---|---|
+| 💻 | **Técnico de informática** | Hardware e redes |
+| ⚡ | **Eletricista industrial** | Painéis e motores |
+| ☀️ | **Suporte técnico em energia solar** | Inversores on/off-grid |
+| 🔌 | **Automação ADMS na CPFL** | Campo + software |
+| 🚀 | **Desenvolvedor** | Onde TI e TO se encontram |
 
 ---
 
