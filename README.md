@@ -7,7 +7,6 @@
 <p>
   <a href="https://www.linkedin.com/in/isaque-dias/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:isaquedias0701@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=isaque-dias&style=for-the-badge&color=1F9BF0&label=VISITAS" />
 </p>
 
 </div>
@@ -24,7 +23,7 @@ Antes de programar, eu mantinha painéis, motores e instalações elétricas. Ho
 - 🗺️ Validação de **changesets** e pré-postagens no **GISD**, refletindo no **EcoStruxure ADMS**
 - 🐍 Desenvolvimento de sistemas corporativos com **Python, Django e Oracle**
 - 🌍 Geoprocessamento com **GeoDjango, PostGIS e Google Maps API**
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (Anhanguera)
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 🚀 Atualmente aprofundando em **C# / .NET** e **protocolos SCADA**
 
 ---
@@ -33,17 +32,17 @@ Antes de programar, eu mantinha painéis, motores e instalações elétricas. Ho
 
 | Sistema | O que faz | Stack |
 |---|---|---|
-| **Sistema de Procedimentos** | Portal com mais de 1.600 procedimentos técnicos do setor de Automação e ADMS, com busca e assistente de perguntas sobre os documentos | Python · Django · Oracle |
-| **Localização de Religadores** | Mapa georreferenciado dos religadores por latitude/longitude, com visualização geoespacial | GeoDjango · PostGIS · Google Maps API |
-| **Gestão de Férias e Folgas** | Controle de escalas, férias e folgas da equipe | Python · Django |
+| **Sistema de Procedimentos** | Centraliza mais de **1.600 procedimentos técnicos** com busca e assistente de perguntas. Usado por toda a equipe do setor (**17 pessoas**) | Python · Django · Oracle |
+| **Localização de Religadores** | Mapa georreferenciado com mais de **14 mil religadores**, permitindo localizar qualquer equipamento da rede em segundos | GeoDjango · PostGIS · Google Maps API |
+| **Gestão de Férias e Folgas** | Controle de escalas, férias e folgas de toda a equipe (**17 colaboradores**) em um só lugar | Python · Django |
 
-> Sistemas de uso interno — o código não é público, mas fico à vontade para conversar sobre arquitetura e decisões técnicas.
+> Sistemas de uso interno: o código não é público, mas fico à vontade para conversar sobre arquitetura e decisões técnicas.
 
 ---
 
-## 🔬 Em construção: GridTalk
+## 🔬 Em construção: Laboratório de Protocolos SCADA
 
-Laboratório de protocolos SCADA feito **100% em C#**, para estudar e demonstrar a comunicação entre centro de operação e equipamentos de campo:
+Laboratório feito **100% em C#**, para estudar e demonstrar a comunicação entre centro de operação e equipamentos de campo:
 
 - 📡 Religadores virtuais falando **DNP3**, **IEC 60870-5-104** e **Modbus**
 - 🖥️ Mestre simulado fazendo varredura, comandos e leitura de eventos
@@ -57,7 +56,7 @@ Laboratório de protocolos SCADA feito **100% em C#**, para estudar e demonstrar
 **No dia a dia**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,git,linux" />
 </p>
 
 Oracle Database · Django REST Framework · PostGIS · GIS · EcoStruxure ADMS · GISD · SAP
@@ -80,17 +79,12 @@ C# · ASP.NET Core · Entity Framework · DNP3 · IEC 104 · Modbus
 | ⚡ | **Eletricista industrial** | Painéis e motores |
 | ☀️ | **Suporte técnico em energia solar** | Inversores on/off-grid |
 | 🔌 | **Automação ADMS na CPFL** | Campo + software |
-| 🚀 | **Desenvolvedor** | Onde TI e TO se encontram |
+| 🚀 | **Próximo passo** | Desenvolvimento backend para o setor de energia |
 
 ---
 
 ## 🤝 Vamos conversar
 
 Tenho interesse em **automação de sistemas de energia, ADMS/SCADA, integração de sistemas e desenvolvimento backend**.
-Se você trabalha com isso ou tem um projeto onde TI e TO se encontram, me chama no LinkedIn!
 
-<div align="center">
-
-⭐ Gostou do perfil? Deixe uma estrela nos repositórios ou me siga por aqui.
-
-</div>
+Se você tem um projeto onde **TI e TO (Tecnologia Operacional)** se encontram, me chama no [LinkedIn](https://www.linkedin.com/in/isaque-dias/)!
